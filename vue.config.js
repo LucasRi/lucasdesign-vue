@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: 'lucasdesign-vue'
-  }
+    publicPath: process.env.NODE_ENV === "production" ? "lucasdesign-vue" : "/",
+  };
