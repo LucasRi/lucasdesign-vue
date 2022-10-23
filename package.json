@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "gsap": "^3.11.3",
-    "serve": "^14.0.1",
     "vue": "^3.2.41",
     "vue-router": "^4.1.5"
   },
