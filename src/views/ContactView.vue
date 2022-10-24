@@ -1,5 +1,4 @@
 <template>
-
   <section class="services">
     <div class="container lines">
       <div class="services-body">
@@ -29,7 +28,7 @@
 </template>
 
 <style scoped>
-.services{
+.services {
   background-color: aquamarine;
 }
 </style>
