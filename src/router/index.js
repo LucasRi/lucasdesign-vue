@@ -3,7 +3,6 @@ import VueRouter from "vue-router";
 import HomeView from "../views/HomeView.vue";
 import ContactView from "../views/ContactView.vue";
 
-Vue.use(VueRouter);
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
